@@ -1,6 +1,7 @@
 <?php
 define("IN_XSS_PLATFORM", true);
 
+require_once("401.php");
 require_once("functions.php");
 require_once("dio.php");
 
